@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#Left{
+    float: left;
+}
+
+#Right{
+    float: right;
+}
+
+#Clear{
+    clear: both;
+}

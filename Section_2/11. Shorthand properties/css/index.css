@@ -1,0 +1,27 @@
+#Div1{
+    margin-top: 190px;
+    margin-right: 5px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+}
+
+#Div2{
+    /*Applies 100px to each side instead of doing it separately*/
+    margin: 100px;
+}
+
+#Div3{
+    border-width: 5px;
+    border-color: blue;
+    border-style: dotted;
+}
+
+/*shorthand for border*/
+#Div4{
+    border: 5px blue dotted;
+}
+
+/*Shorthand for font*/
+#Div5{
+    font: italic bold 4em arial;
+}

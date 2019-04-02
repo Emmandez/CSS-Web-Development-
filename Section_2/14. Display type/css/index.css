@@ -1,0 +1,16 @@
+body{
+        background-color: black;
+    color: white;
+}
+
+.block{
+    display: block; 
+}
+
+.inline{
+    display: inline;
+}
+
+.none{
+    display: none;
+}
