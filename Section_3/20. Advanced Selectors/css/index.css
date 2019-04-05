@@ -1,0 +1,23 @@
+*{
+    font-size: 1em;
+    color: green;
+    font-weight: bold;
+}
+
+/*Affects all the elements inside Div1 but not Div1*/
+#Div1 *{
+    background-color: yellow ;
+}
+
+/*Child selector: affects all p tags inside directly in Div 1.
+    if there's a p tag inside a child of Div 1, it won't be affected by
+    this style
+*/
+#Div1 > p{
+    background-color: blue;
+}
+
+/*affects the H3 tag that's adjacent to the H2 tag*/
+h2 + h3{
+    font-size: 2em;
+}

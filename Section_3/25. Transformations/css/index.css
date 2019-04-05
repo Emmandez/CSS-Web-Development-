@@ -1,0 +1,21 @@
+
+
+img{
+    margin: 100px; 
+}
+
+#Rotation{
+    transform: rotate(250deg);
+}
+
+#Translation{
+    transform: translate(400px, 200px );
+}
+
+#Scaling{
+    transform: scale(2, 0.5);
+}
+
+#Skewing{
+    /*transform: skew(40deg, 90deg);*/
+}

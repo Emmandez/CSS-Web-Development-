@@ -1,0 +1,13 @@
+div:hover{
+    font-size: 2em;
+    color: red;
+
+    transition: font-size 2s, color 2s;
+}
+
+
+div{
+    color: black;
+    font-size: 1em;
+    transition: font-size 2s ,color 2s linear;
+}

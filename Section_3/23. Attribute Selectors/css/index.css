@@ -1,0 +1,12 @@
+
+input[type="text"]{
+    background-color: red;
+}
+
+div[something]{
+    font-size: 3em;
+}
+
+div{
+    color: blue;
+}

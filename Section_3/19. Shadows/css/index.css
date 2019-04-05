@@ -1,0 +1,29 @@
+body{
+    
+}
+
+#BoxShadow{
+    height: 512px;
+    width: 512px;
+    margin: 50px;
+
+    background-color: red;
+    box-shadow: 10px 20px 3px 1px #999 ;
+}
+
+#InnerShadow{
+
+    height: 512px;
+    width: 512px;
+    margin: 50px;
+
+    background-color: red;
+    box-shadow: inset 0 0 7px 5px #ddd ;
+
+}
+
+#textShadow{
+    margin: 100px;
+    font-size: 4em;
+    text-shadow: 5px 5px 2px #F00;
+}
